@@ -12,8 +12,6 @@ será o valor do mesmo com o desconto de (??)%.
 """
 
 #01
-from unittest import result
-
 
 print("Aŕea de um retângulo")
 base = int(input("Digite a base: "))
