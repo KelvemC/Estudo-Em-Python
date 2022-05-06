@@ -8,4 +8,6 @@
 
 Variáveis e Tipos de dados :white_check_mark:
 
-Estrutura Lógicas e Condicionais - em andamento 
+Estruturas Lógicas e Condicionais:white_check_mark:
+
+Estruturas de Repetição - em andamento
