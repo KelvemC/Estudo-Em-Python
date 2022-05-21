@@ -11,3 +11,5 @@ Variáveis e Tipos de dados :white_check_mark:
 Estruturas Lógicas e Condicionais :white_check_mark:
 
 Estruturas de Repetição :white_check_mark:
+
+Coleções(Listas) - em andamento
