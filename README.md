@@ -14,4 +14,6 @@ Estruturas de Repetição :white_check_mark:
 
 Coleções(Listas) :white_check_mark:
 
-Coleções(Tuplas) - em andamento
+Coleções(Tuplas) :white_check_mark:
+
+Coleções(Dicionários) - em andamento
