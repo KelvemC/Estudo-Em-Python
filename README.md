@@ -16,4 +16,6 @@ Coleções(Listas) :white_check_mark:
 
 Coleções(Tuplas) :white_check_mark:
 
-Coleções(Dicionários) - em andamento
+Coleções(Dicionários) :white_check_mark:
+
+Coleções(Sets) - em andamento
