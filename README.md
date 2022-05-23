@@ -12,4 +12,6 @@ Estruturas Lógicas e Condicionais :white_check_mark:
 
 Estruturas de Repetição :white_check_mark:
 
-Coleções(Listas) - em andamento
+Coleções(Listas) :white_check_mark:
+
+Coleções(Tuplas) - em andamento
