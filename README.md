@@ -18,4 +18,6 @@ Coleções(Tuplas) :white_check_mark:
 
 Coleções(Dicionários) :white_check_mark:
 
-Coleções(Sets) - em andamento
+Coleções(Sets) :white_check_mark:
+
+Funções - em andamento
