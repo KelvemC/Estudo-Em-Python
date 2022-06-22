@@ -20,4 +20,6 @@ Coleções(Dicionários) :white_check_mark:
 
 Coleções(Sets) :white_check_mark:
 
-Funções - em andamento
+Funções :white_check_mark:
+
+Módulo - em andamento...
