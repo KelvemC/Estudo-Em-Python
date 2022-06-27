@@ -1,0 +1,6 @@
+Comandos      | Para que serve
+------------------------------
+pip --verison | Serve para verificar a versão do pip.
+pip list      | serve para listar todos os pacotes instalados usando o pip diretamente ou indiretamente.
+pip uninstall | serve para remover o pacote, precisa colocar o nome do pacote que deseja remover.
+pip freeze    | serve para criar um documentos listando pacotes que foram instalados, deve usar assim: pip freeze > requirements.txt

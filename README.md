@@ -22,4 +22,6 @@ Coleções(Sets) :white_check_mark:
 
 Funções :white_check_mark:
 
-Módulo - em andamento...
+Módulo :white_check_mark:
+
+Manipulação de arquivos - Em andamento
