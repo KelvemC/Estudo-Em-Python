@@ -152,7 +152,7 @@ def soma():
     return numero1+numero2
 
 
-def nevativar():
+def negativar():
     """
         Função negativar:
             Esta função serve para negativar um número
@@ -165,6 +165,9 @@ def nevativar():
 
 
 def calculadora():
+    """
+        Esta função serve para testar a calculadora, em outras palavras executar.
+    """
     print(menu())
     esc = escolha()
     
@@ -176,7 +179,7 @@ def calculadora():
     elif esc == '6': return multi()
     elif esc == '7': return subtracao()
     elif esc == '8': return soma()
-    elif esc == '9': return nevativar()
+    elif esc == '9': return negativar()
     else: print(f"\033[31mDigita uma opção correta\033[m"); return calculadora()
     
 if __name__ == '__main__':
