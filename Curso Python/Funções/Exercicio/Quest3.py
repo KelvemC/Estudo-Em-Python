@@ -28,7 +28,7 @@ def escolha():
             opções deseja escolher, poderá digitar pelo teclado o número,
             esse número será salvo e utilizado pelas outras funções.
 
-        #### Digito um valor, ele será salvo e depois retornado.
+        # Digito um valor, ele será salvo e depois retornado.
     """
     esc = (input("Escolha uma das opções do Menu: "))
     return esc
@@ -43,7 +43,7 @@ def modulo():
             E de acordo com os números recebidos será feito o calculo do módulo entre eles.
 
             # Exemplo: Numero1 = 7.55 e Numero2 = 8.80
-            #### return (7.55/100) * 8.80
+            # return (7.55/100) * 8.80
     """
     
     numero1 = float(input("Insira o número 1: "))
