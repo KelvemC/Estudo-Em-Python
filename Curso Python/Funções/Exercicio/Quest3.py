@@ -1,3 +1,8 @@
+"""
+    Calculadora python:
+        Este módulo tem como objetivo mostrar as principais funções
+        que uma calculadora do w10 pode ter como padrão!
+"""
 from math import sqrt
 def menu():
     """
