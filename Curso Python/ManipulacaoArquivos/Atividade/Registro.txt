@@ -1,0 +1,24 @@
+Paciente Kelvem Carlos Fernandes Gomes
+Email: kelvemcif@gmail.com 
+CPF: 178.945.304-55 
+RG: 4561268
+TEL: (87)99178-2379 
+Nascimento: 19/05/2002 
+Idade: 20
+
+Paciente: Aldair Silvio da Silva, pertence ao Grupo de Risco
+Email: aldair@gmail.com 
+CPF: 11122233344 
+RG: 1698014
+TEL: 87996453566 
+Nascimento: 15/01/1955 
+Idade: 67
+
+Paciente: Raquel Alves da Silva
+Email: raquel@gmail.com 
+CPF: 14789625844 
+RG: 7891102
+TEL: 87991445572 
+Nascimento: 12/01/2002 
+Idade: 20
+

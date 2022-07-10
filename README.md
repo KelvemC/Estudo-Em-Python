@@ -24,4 +24,6 @@ Funções :white_check_mark:
 
 Módulo :white_check_mark:
 
-Manipulação de arquivos - Em andamento
+Manipulação de arquivos :white_check_mark:
+
+Orientação a Objetos: Em andamento
